@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 6e74e29129352964ea5760de32342d20
+  - enabled: 1
+    path: Assets/Scenes/BossScene.unity
+    guid: dfbbc517d9df6084eaad1d05c5d601aa
+  - enabled: 1
+    path: Assets/Scenes/PlayerScene.unity
+    guid: 765f41ba67510b646b5dbdf8bb1a5c16
+  - enabled: 1
+    path: Assets/Scenes/NextRound.unity
+    guid: 63cfdade69f84e84b92af65eea3017fe
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 2c628837385b3314e9df58e6ac183a91
+  - enabled: 1
+    path: Assets/Scenes/NumberForge.unity
+    guid: 24bd3b13e56fe1e4cb2a82ac20ce9d71
+  - enabled: 1
+    path: Assets/Scenes/BossWin.unity
+    guid: 386882b47c03f2546acc95aca314830e
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: ebc0b8d7774af7a43b9f60ac0c220d4d
+  - enabled: 1
+    path: Assets/Scenes/TutorialForge.unity
+    guid: c7fcda756456eaa46af7ac06c9b4b422
+  m_configObjects: {}
